@@ -1,0 +1,8 @@
+
+ this is information of admin
+username: PL536009
+password:PL536003
+
+  information of user
+username:   EMP379500
+password: 123
